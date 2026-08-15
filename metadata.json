@@ -1,0 +1,6 @@
+{
+  "name": "ShopWave",
+  "description": "Adaptive e-commerce shopping platform for phones and tablets/desktop with catalog search, rich product details, cart, checkout, payments, and real-time delivery order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
